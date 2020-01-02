@@ -8,23 +8,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>teste canais A&e</title>
-<link>http://list.deeplist.nl:80/Evair001/123456/1120</link>
-<thumbnail>http://reparo.dk/wp-content/uploads/2013/09/test-thumbnail.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>teste canais TINYURL</title>
-<link>https://tinyurl.com/t72f3yt</link>
-<thumbnail>http://reparo.dk/wp-content/uploads/2013/09/test-thumbnail.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>teste canais Band</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_905562650c6e5f0bde43a449b5004439a5a45838/playlist.m3u8</link>
+<link>http://list.deeplist.nl:80/Evair001/12345/1120</link>
 <thumbnail>http://reparo.dk/wp-content/uploads/2013/09/test-thumbnail.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -32,7 +16,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>A&E HD</title>
-<link>http://list.deeplist.nl:80/tute01/drigo123/5078</link>
+<link>http://list.deeplist.nl:80/tute01/drigo12345/5078</link>
 <thumbnail>http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
