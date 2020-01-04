@@ -59,27 +59,17 @@ https://d3v1dieo3w7nem.cloudfront.net/hls1/cartoon-4604.ts
 https://d3v1dieo3w7nem.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2483
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX FULL HD" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52649
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX HD" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/5080
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE FULL HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52650
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1088
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 1" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38746
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 2" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38745
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 3" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38744
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD+" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/22442
+https://d3v1dieo3w7nem.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE FULL HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Variedades e Musicas",COMEDY CENTRAL
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52240
+https://d3v1dieo3w7nem.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Variedades e Musicas",CULTURA
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52238
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
 #EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA !" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755293_0c9755ae8a39295ff6897ebef042003480f25759.png" group-title="Variedades e Musicas",CURTA !
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52241
 #EXTINF:-1 tvg-id="AeE" tvg-name="DAZN" tvg-logo="http://img.myapp.st/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN
@@ -254,40 +244,6 @@ http://list.deeplist.nl:80/Marcoscapi/mar223344/1028
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52661
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/2386
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49721
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49720
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49722
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49723
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49724
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49729
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49725
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49726
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49727
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49728
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/17121
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/21804
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38664
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38665
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38666
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 4
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2512
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/22363
 #EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS
 http://list.deeplist.nl:80/Marcoscapi/mar223344/17962
 #EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO
@@ -312,110 +268,9 @@ http://list.deeplist.nl:80/Marcoscapi/mar223344/2412
 http://list.deeplist.nl:80/Marcoscapi/mar223344/22367
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/5085
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 1" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38716
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 2" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38715
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 3" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38714
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD+" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/23980
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/17130
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38667
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38668
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38669
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 4
-http://list.deeplist.nl:80/Marcoscapi/mar223344/15405
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/22371
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38452
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38670
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 2" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38671
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/9580
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 4" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 4
-http://list.deeplist.nl:80/Marcoscapi/mar223344/40436
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38451
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52618
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1207
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/21801
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38661
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38662
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38663
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 4
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2508
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/22209
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49730
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49731
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49732
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC CURITIBA
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52606
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/17122
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/21800
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38657
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38658
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38659
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 4
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1024
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/22359
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49719
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD 1" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49716
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD 2" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49717
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD 3" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2511
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD+" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49718
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO TV BAHIA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Variedades e Musicas",GLOBO TV BAHIA
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52684
-#EXTINF:-1 tvg-id="GLOBO TV CENTRO AMERICA" tvg-name="GLOBO TV CENTRO AMERICA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759583_f31255faf1deb50addda12d3a3727c4d68299b35.png" group-title="Variedades e Musicas",GLOBO TV CENTRO AMERICA
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52683
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO TV RONDÔNIA SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO TV RONDÔNIA SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49715
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO TV RONDÔNIA SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO TV RONDÔNIA SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49714
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO TV RONDÔNIA SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO TV RONDÔNIA SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/49713
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759996_99ccece1b6f8192e552f11b4ed679715ec7fd112.jpg" group-title="Noticias",GLOBO TV VANGUARDA
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52682
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO TV VERDES MARES" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Noticias",GLOBO TV VERDES MARES
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52681
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB FULL HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52662
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/5086
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD 1" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38719
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD 2" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38718
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD 3" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38717
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD+" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD+
 http://list.deeplist.nl:80/Marcoscapi/mar223344/28406
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO HD" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO HD
@@ -851,7 +706,7 @@ http://list.deeplist.nl:80/Marcoscapi/mar223344/52620
 #EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52588
 #EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Filmes e Series",TELECINE CULT
-http://list.deeplist.nl:80/Marcoscapi/mar223344/933
+https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT HD" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Filmes e Series",TELECINE CULT HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/5096
 #EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Filmes e Series",TELECINE FUN
@@ -859,23 +714,11 @@ http://list.deeplist.nl:80/Marcoscapi/mar223344/931
 #EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN HD" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Filmes e Series",TELECINE FUN HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/932
 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA
-http://list.deeplist.nl:80/Marcoscapi/mar223344/929
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA FULL HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52623
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/930
+https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52591
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52624
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52590
+https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH
-http://list.deeplist.nl:80/Marcoscapi/mar223344/926
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/927
-#EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768549_d5280f7bfbf0918d0cf522c156b3f6f9b10aa3be.jpg" group-title="Variedades e Musicas",TERRA VIVA
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52689
+https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios",THE HISTORY CHANNEL
 http://list.deeplist.nl:80/Marcoscapi/mar223344/923
 #EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL HD" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios",THE HISTORY CHANNEL HD
