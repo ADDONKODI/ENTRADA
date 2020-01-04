@@ -1,20 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1120
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E rede" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
+https://d3v1dieo3w7nem.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52645
+https://d3v1dieo3w7nem.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/5078
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
-http://list.deeplist.nl:80/Marcoscapi/mar223344/9609
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC rede" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
+https://d3v1dieo3w7nem.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52646
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/15406
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1719
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET rede" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
+https://d3v1dieo3w7nem.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52581
 #EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA
