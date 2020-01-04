@@ -70,265 +70,90 @@ https://d3v1dieo3w7nem.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Variedades e Musicas",CULTURA
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
-#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA !" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755293_0c9755ae8a39295ff6897ebef042003480f25759.png" group-title="Variedades e Musicas",CURTA !
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52241
-#EXTINF:-1 tvg-id="AeE" tvg-name="DAZN" tvg-logo="http://img.myapp.st/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN
-http://list.deeplist.nl:80/Marcoscapi/mar223344/56437
-#EXTINF:-1 tvg-id="DEUTSCH" tvg-name="DEUTSCH" tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png" group-title="Noticias",DEUTSCH
-http://list.deeplist.nl:80/Marcoscapi/mar223344/18034
-#EXTINF:-1 tvg-id="DEUTSCH" tvg-name="DEUTSCH HD" tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png" group-title="Noticias",DEUTSCH HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/37776
-#EXTINF:-1 tvg-id="DEUTSCH" tvg-name="DEUTSCH SD+" tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png" group-title="Noticias",DEUTSCH SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38471
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentarios",DISCOVERY CHANNEL
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1084
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentarios",DISCOVERY CHANNEL FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52605
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentarios",DISCOVERY CHANNEL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2410
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2399
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-name="DISCOVERY HOME & HEALTH FULL HD" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52615
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1082
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1080
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS FULL HD" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52652
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/5081
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title="Documentarios",DISCOVERY SCIENCE
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20806
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title="Documentarios",DISCOVERY SCIENCE FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52653
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title="Documentarios",DISCOVERY SCIENCE HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/16006
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4.png" group-title="Documentarios",DISCOVERY THEATER
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20807
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER FULL HD" tvg-logo="http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4.png" group-title="Documentarios",DISCOVERY THEATER FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52610
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4.png" group-title="Documentarios",DISCOVERY THEATER HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2460
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discoverytheater.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1072
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2411
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png" group-title="Documentarios",DISCOVERY WORLD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20808
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png" group-title="Documentarios",DISCOVERY WORLD HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2461
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52654
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD 1" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL HD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38438
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD 2" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL HD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/5082
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL SD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38763
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL SD+" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1071
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR FULL HD" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52655
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR HD" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20809
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR SD 1" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38783
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR SD 2" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1068
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR SD+" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38441
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD HD" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20810
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD SD 1" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38761
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD SD 2" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1065
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD SD+" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38440
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://img.starbr.in/1559756477_f47514a7483173bbbe56eb2ef89cae3fb60e8f26.png" group-title="Variedades e Musicas",E!
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1063
-#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://img.starbr.in/1559756477_f47514a7483173bbbe56eb2ef89cae3fb60e8f26.png" group-title="Variedades e Musicas",E! HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52246
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FULL HD" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52657
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1129
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD 1" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38754
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD 2" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1718
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD+" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38387
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2394
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD 1" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38756
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD 2" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2395
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD+" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38416
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL HD" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2387
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD 1" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38758
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD 2" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1060
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD+" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38415
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA FULL HD" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52614
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA HD" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20813
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD 1" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20812
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD 2" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/40435
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD+" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38417
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL FULL HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR FULL HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD " tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 FULL HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559757151_799f5ec6f1dda177024b7e3d878d1f4825db98ad.jpg" group-title="Variedades e Musicas",FISH TV
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52244
-#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559757151_799f5ec6f1dda177024b7e3d878d1f4825db98ad.jpg" group-title="Variedades e Musicas",FISH TV HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52245
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Variedades e Musicas",FOOD NETWORK
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1049
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK FULL HD" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Variedades e Musicas",FOOD NETWORK FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52658
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK HD" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Variedades e Musicas",FOOD NETWORK HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/5084
+https://d3v1dieo3w7nem.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1329
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX FULL HD" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52659
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1047
+https://d3v1dieo3w7nem.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Variedades e Musicas",FOX LIFE
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1038
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE FULL HD" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Variedades e Musicas",FOX LIFE FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52596
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE HD" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Variedades e Musicas",FOX LIFE HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1037
+https://d3v1dieo3w7nem.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Series",FOX PREMIUM 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20815
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Series",FOX PREMIUM 1 HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2464
+https://d3v1dieo3w7nem.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2" tvg-logo="http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title="Filmes e Series",FOX PREMIUM 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20816
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title="Filmes e Series",FOX PREMIUM 2 HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2465
+https://d3v1dieo3w7nem.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2391
+https://d3v1dieo3w7nem.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title="Esportes",FOX SPORTS 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1717
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2 FULL HD" tvg-logo="http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title="Esportes",FOX SPORTS 2 FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52621
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title="Esportes",FOX SPORTS 2 HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1031
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS FULL HD" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52660
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS HD" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/50188
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA HD" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/20803
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD 1" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38735
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD 2" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38736
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD 3" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38737
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD+" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38484
+https://d3v1dieo3w7nem.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1028
-#EXTINF:-1 tvg-id="FX" tvg-name="FX FULL HD" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52661
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2386
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS
-http://list.deeplist.nl:80/Marcoscapi/mar223344/17962
-#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO
-http://list.deeplist.nl:80/Marcoscapi/mar223344/48800
-#EXTINF:-1 tvg-id="GLOBO EPTV SAO CARLOS" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV SAO CARLOS
-http://list.deeplist.nl:80/Marcoscapi/mar223344/56877
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Variedades e Musicas",GLOBO INTER TV CABUGI
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52685
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/17129
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG HD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/21803
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38654
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38655
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38656
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 4
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2412
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/22367
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/5085
+https://d3v1dieo3w7nem.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
 https://d3v1dieo3w7nem.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD+" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/28406
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO HD" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/17136
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD 1" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38723
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD 2" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38724
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD 3" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38725
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD+" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/23976
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FULL HD" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52626
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2466
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 1" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD 1
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38752
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 2" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38751
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 3" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD 3
-http://list.deeplist.nl:80/Marcoscapi/mar223344/38750
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD+" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD+
-http://list.deeplist.nl:80/Marcoscapi/mar223344/24290
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2486
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 FULL HD" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2 FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52629
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2 HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1021
+
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/boborj.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD+
+https://d3v1dieo3w7nem.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FULL" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT FULL HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2
+https://d3v1dieo3w7nem.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Filmes e Series",HBO
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1020
+https://d3v1dieo3w7nem.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://img.starbr.in/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Filmes e Series",HBO 2
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2489
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Filmes e Series",HBO 2 FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52616
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Filmes e Series",HBO 2 HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52583
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1016
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY FULL HD" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52627
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY HD" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2392
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FULL HD" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Filmes e Series",HBO FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52617
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Filmes e Series",HBO HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1209
+https://d3v1dieo3w7nem.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
+
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Filmes e Series",HBO PLUS
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52672
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Filmes e Series",HBO PLUS HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52671
+https://d3v1dieo3w7nem.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
+
+
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title="Filmes e Series",HBO SIGNATURE
-http://list.deeplist.nl:80/Marcoscapi/mar223344/2488
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE FULL HD" tvg-logo="http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title="Filmes e Series",HBO SIGNATURE FULL HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52628
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE HD" tvg-logo="http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title="Filmes e Series",HBO SIGNATURE HD
-http://list.deeplist.nl:80/Marcoscapi/mar223344/1013
+
 #EXTINF:-1 tvg-id="IDEAL TV" tvg-name="IDEAL TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762336_99c05f4b930b4e05813dc79cc71f361500f4339e.png" group-title="Variedades e Musicas",IDEAL TV
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52673
 #EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY" tvg-logo="http://img.starbr.in/1559762432_ff9b16c225bc3ba42286933f4b1b5018c99e7b60.jpg" group-title="Documentarios",INVESTIGACAO DISCOVERY
