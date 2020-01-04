@@ -865,8 +865,8 @@ http://list.deeplist.nl:80/Marcoscapi/mar223344/937
 http://list.deeplist.nl:80/Marcoscapi/mar223344/2473
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768471_301eda035c94a449755f1ea79b2208599af261b0.png" group-title="Filmes e Series",TCM
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52252
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION
-http://list.deeplist.nl:80/Marcoscapi/mar223344/52589
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION rede" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION
+https://d3v1dieo3w7nem.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION FULL HD
 http://list.deeplist.nl:80/Marcoscapi/mar223344/52620
 #EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION HD
