@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
+http://extremo.dyndns.ws:25461/live/lety/lety/2344.ts
 #EXTINF:-1 ,hbo2 fhd
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/470
 #EXTINF:-1 ,hbo plus
